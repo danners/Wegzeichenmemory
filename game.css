@@ -1,0 +1,20 @@
+#board {
+	position: relative;
+	margin-bottom: 0%;
+	float: left;
+}
+.memory {
+	position: relative;
+	margin-right: 8%;
+	float: left;
+	border-style: solid;
+	margin-top: 1%;
+	border-color: transparent;
+}
+body {
+	border-width: 0px;
+	padding: 0px;
+	margin: 0px;
+	font-size: 90%;
+	background-color: #e7e7de
+}
